@@ -1,20 +1,19 @@
-### Hi there 👋
+### Hey everybody!
+
+I'm Vik <br>
+My pronouns are <i>they/she/he/xe</i> and any other fun neopronouns you can find - always love when folks mix it up 
+
+I am a pit of endless curiosity (some might call it noseyness): <br>
+I love solving problems, puzzles, building IKEA furnitue and learning new things.
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" vertical-align='top' src="https://github-readme-stats.vercel.app/api/top-langs/?username=vik-wed&layout=compact" />
+</a>
 
 <!--
-**vik-wed/vik-wed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vik-wed&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=transparent" />
+</a>
 -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vik-wed&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vik-wed)](https://github.com/anuraghazra/github-readme-stats)
