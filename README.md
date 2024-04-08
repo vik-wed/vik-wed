@@ -8,12 +8,10 @@ I am an experienced Full Stack Developer with a background in project management
 
 As your reliable partner, I look forward to creating a seamless flow-state for your project, bring your vision to life and exceed your expectations!
 
----
-[![linkedin](https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg)][2]
-[![instagram](https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg)][1]
-[![github](https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg)][3]
 
 ---
-[1]: https://www.instagram.com/qualle.tech
-[2]: https://www.linkedin.com/in/vikwedel/
-[3]: https://github.com/qualle-tech
+<a href="https://www.linkedin.com/in/vikwedel/" target="__blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" width="5%" ></a>
+<a href="https://www.instagram.com/qualle.tech" target="__blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" width="5%"></a>
+<a href="https://github.com/qualle-tech" target="__blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="5%"></a>
+
+---
