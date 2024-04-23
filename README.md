@@ -9,6 +9,8 @@ I am an experienced Full Stack Developer with a background in project management
 As your reliable partner, I look forward to creating a seamless flow-state for your project, bring your vision to life and exceed your expectations!
 
 
+[![vik-wed's GitHub | Stats](https://stats.quine.sh/vik-wed/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=vik-wed)
+
 ---
 <a href="https://www.linkedin.com/in/vikwedel/" target="__blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" width="5%" ></a>
 <a href="https://www.instagram.com/qualle.tech" target="__blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" width="5%"></a>
