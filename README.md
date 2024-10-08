@@ -1,19 +1,17 @@
-### Hey everybody, I'm Vik!
+### Hi, I'm Vik
 
-I am passionate about helping creative indviduals and businesses turn their ideas into reality in the digital world.
+My ultimate goal is to help **changemakers** and **creatives** turn their ideas into reality in the digital world.
 
-I love pouring my heart and a lot of care into all of my projects, especially when collaborating with like-minded partners who share a similar excitement for their work. 
+With experience in full stack development and a background in project management, communications, sales, and operations, all my projects are tackled with a strategic mindset and a can-do attitude.
 
-I am an experienced Full Stack Developer with a background in project management, communications, and operations. With a strategic mindset and a jack-of-all-trades approach, I can offer more than just technical skills.
+Driven by my care and dedication, I'm all about bringing visions to life — and exceeding expectations!
 
-As your reliable partner, I look forward to creating a seamless flow-state for your project, bring your vision to life and exceed your expectations!
-
-
-[![vik-wed's GitHub | Stats](https://stats.quine.sh/vik-wed/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=vik-wed)
 
 ---
-<a href="https://www.linkedin.com/in/vikwedel/" target="__blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" width="5%" ></a>
-<a href="https://www.instagram.com/qualle.tech" target="__blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" width="5%"></a>
-<a href="https://github.com/qualle-tech" target="__blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="5%"></a>
-
+### Find me on the Web
+<a href="https://qualletech.com/" target="__blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" ></a>
+<a href="https://www.linkedin.com/in/vikwedel/" target="__blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" ></a>
+<a href="https://github.com/qualletech" target="__blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"></a>
+<a href="https://www.instagram.com/qualletech" target="__blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
+<a href="https://medium.com/@qualletech" target="__blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"></a>
 ---
