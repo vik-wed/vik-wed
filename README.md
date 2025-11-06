@@ -16,7 +16,7 @@ I’ve also contributed to CI/CD pipelines, internal tools, and UI systems that 
 ### Tools & Tech
 **Languages:** JavaScript, TypeScript, Python, SQL  
 **Frontend:** React, Next.js, HTML, CSS, Styled Components, Tailwind CSS  
-**Backend:** Node.js, RESTful APIs, Postgres/PostgreSQL, Firebase, Prisma, Django
+**Backend:** Node.js, RESTful APIs, Postgres/PostgreSQL, Firebase, Prisma, Django  
 **Other:** Git, GitHub Actions, CI/CD, AWS, Vercel, Netlify, ESLint, Agile/Scrum
 
 ### Currently learning
